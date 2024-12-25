@@ -28,9 +28,6 @@ I'm eager to collaborate on projects that involve:
 - Email: [azzouzmariam3@gmail.com](mailto:azzouzmariam3@gmail.com)
 - LinkedIn: [Mariam Azzouz](https://linkedin.com/in/mariam-azzouz)
 
-## 😄 Pronouns
-- She/Her
-
 ## ⚡ Fun Fact
 I enjoy exploring the intersection of technology and creativity, especially in creating personalized digital experiences through AI.
 
