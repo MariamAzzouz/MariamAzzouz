@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm an AI & Data Scientist with a strong focus on 
 - **Advanced AI Techniques**: Enhancing 3D modeling and computer vision capabilities.
 
 ## 🛠 Tools & Technologies
-- **Programming Languages**: Python, JavaScript
+- **Programming Languages**: Python
 - **Frameworks & Libraries**: TensorFlow, PyTorch, OpenCV, React, Flask
 - **Data & AI Tools**: Pandas, NumPy, Scikit-learn, Three.js
 - **Cloud & DevOps**: Docker, Git
